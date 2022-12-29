@@ -1,11 +1,14 @@
-.vid{
-    padding: 10px;
-    
-}
-.videos{
-
-    margin: auto;
+.float-container{
     margin-top: 6em;
-    margin-bottom: 8em;
-    width: 65%; 
+}
+.float-right{
+    width: 50%;
+    float: right;
+    padding: 5px;
+}
+
+.float-left{
+    width: 50%;
+    float: left;
+    padding: 5px;
 }
